@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" width="680" height="160">
+  <rect width="680" height="160" fill="#0a0a0a" rx="12"/>
+  <style>
+    .p { animation: form 3.6s ease-in-out infinite; transform-origin: center; }
+    @keyframes form {
+      0%   { opacity: 0; }
+      15%  { opacity: 1; }
+      60%  { opacity: 1; }
+      85%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Letter A — color #00ff88 — offsetX=95 -->
+  <!-- row0: col1,col2,col3 -->
+  <rect class="p" x="107" y="40" width="10" height="10" fill="#00ff88" style="animation-delay:0.00s"/>
+  <rect class="p" x="119" y="40" width="10" height="10" fill="#00ff88" style="animation-delay:0.05s"/>
+  <rect class="p" x="131" y="40" width="10" height="10" fill="#00ff88" style="animation-delay:0.10s"/>
+  <!-- row1: col0,col4 -->
+  <rect class="p" x="95"  y="52" width="10" height="10" fill="#00ff88" style="animation-delay:0.05s"/>
+  <rect class="p" x="143" y="52" width="10" height="10" fill="#00ff88" style="animation-delay:0.10s"/>
+  <!-- row2: all -->
+  <rect class="p" x="95"  y="64" width="10" height="10" fill="#00ff88" style="animation-delay:0.10s"/>
+  <rect class="p" x="107" y="64" width="10" height="10" fill="#00ff88" style="animation-delay:0.15s"/>
+  <rect class="p" x="119" y="64" width="10" height="10" fill="#00ff88" style="animation-delay:0.10s"/>
+  <rect class="p" x="131" y="64" width="10" height="10" fill="#00ff88" style="animation-delay:0.15s"/>
+  <rect class="p" x="143" y="64" width="10" height="10" fill="#00ff88" style="animation-delay:0.20s"/>
+  <!-- row3: col0,col4 -->
+  <rect class="p" x="95"  y="76" width="10" height="10" fill="#00ff88" style="animation-delay:0.15s"/>
+  <rect class="p" x="143" y="76" width="10" height="10" fill="#00ff88" style="animation-delay:0.20s"/>
+  <!-- row4: col0,col4 -->
+  <rect class="p" x="95"  y="88" width="10" height="10" fill="#00ff88" style="animation-delay:0.20s"/>
+  <rect class="p" x="143" y="88" width="10" height="10" fill="#00ff88" style="animation-delay:0.25s"/>
+
+  <!-- Letter Y — color #00e5ff — offsetX=177 -->
+  <rect class="p" x="177" y="40" width="10" height="10" fill="#00e5ff" style="animation-delay:0.20s"/>
+  <rect class="p" x="213" y="40" width="10" height="10" fill="#00e5ff" style="animation-delay:0.25s"/>
+  <rect class="p" x="177" y="52" width="10" height="10" fill="#00e5ff" style="animation-delay:0.25s"/>
+  <rect class="p" x="213" y="52" width="10" height="10" fill="#00e5ff" style="animation-delay:0.30s"/>
+  <rect class="p" x="189" y="64" width="10" height="10" fill="#00e5ff" style="animation-delay:0.25s"/>
+  <rect class="p" x="201" y="64" width="10" height="10" fill="#00e5ff" style="animation-delay:0.30s"/>
+  <rect class="p" x="195" y="76" width="10" height="10" fill="#00e5ff" style="animation-delay:0.30s"/>
+  <rect class="p" x="195" y="88" width="10" height="10" fill="#00e5ff" style="animation-delay:0.35s"/>
+
+  <!-- Letter U — color #ff6b6b — offsetX=259 -->
+  <rect class="p" x="259" y="40" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.30s"/>
+  <rect class="p" x="295" y="40" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.35s"/>
+  <rect class="p" x="259" y="52" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.35s"/>
+  <rect class="p" x="295" y="52" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.40s"/>
+  <rect class="p" x="259" y="64" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.35s"/>
+  <rect class="p" x="295" y="64" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.40s"/>
+  <rect class="p" x="259" y="76" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.40s"/>
+  <rect class="p" x="295" y="76" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.45s"/>
+  <rect class="p" x="271" y="88" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.40s"/>
+  <rect class="p" x="283" y="88" width="10" height="10" fill="#ff6b6b" style="animation-delay:0.45s"/>
+
+  <!-- Letter S — color #ffd93d — offsetX=341 -->
+  <rect class="p" x="353" y="40" width="10" height="10" fill="#ffd93d" style="animation-delay:0.40s"/>
+  <rect class="p" x="365" y="40" width="10" height="10" fill="#ffd93d" style="animation-delay:0.45s"/>
+  <rect class="p" x="377" y="40" width="10" height="10" fill="#ffd93d" style="animation-delay:0.40s"/>
+  <rect class="p" x="389" y="40" width="10" height="10" fill="#ffd93d" style="animation-delay:0.45s"/>
+  <rect class="p" x="341" y="52" width="10" height="10" fill="#ffd93d" style="animation-delay:0.45s"/>
+  <rect class="p" x="353" y="64" width="10" height="10" fill="#ffd93d" style="animation-delay:0.45s"/>
+  <rect class="p" x="365" y="64" width="10" height="10" fill="#ffd93d" style="animation-delay:0.50s"/>
+  <rect class="p" x="377" y="64" width="10" height="10" fill="#ffd93d" style="animation-delay:0.45s"/>
+  <rect class="p" x="389" y="76" width="10" height="10" fill="#ffd93d" style="animation-delay:0.50s"/>
+  <rect class="p" x="341" y="88" width="10" height="10" fill="#ffd93d" style="animation-delay:0.50s"/>
+  <rect class="p" x="353" y="88" width="10" height="10" fill="#ffd93d" style="animation-delay:0.55s"/>
+  <rect class="p" x="365" y="88" width="10" height="10" fill="#ffd93d" style="animation-delay:0.50s"/>
+  <rect class="p" x="377" y="88" width="10" height="10" fill="#ffd93d" style="animation-delay:0.55s"/>
+
+  <!-- Letter H — color #c084fc — offsetX=423 -->
+  <rect class="p" x="423" y="40" width="10" height="10" fill="#c084fc" style="animation-delay:0.50s"/>
+  <rect class="p" x="459" y="40" width="10" height="10" fill="#c084fc" style="animation-delay:0.55s"/>
+  <rect class="p" x="423" y="52" width="10" height="10" fill="#c084fc" style="animation-delay:0.55s"/>
+  <rect class="p" x="459" y="52" width="10" height="10" fill="#c084fc" style="animation-delay:0.60s"/>
+  <rect class="p" x="423" y="64" width="10" height="10" fill="#c084fc" style="animation-delay:0.55s"/>
+  <rect class="p" x="435" y="64" width="10" height="10" fill="#c084fc" style="animation-delay:0.60s"/>
+  <rect class="p" x="447" y="64" width="10" height="10" fill="#c084fc" style="animation-delay:0.55s"/>
+  <rect class="p" x="459" y="64" width="10" height="10" fill="#c084fc" style="animation-delay:0.60s"/>
+  <rect class="p" x="423" y="76" width="10" height="10" fill="#c084fc" style="animation-delay:0.60s"/>
+  <rect class="p" x="459" y="76" width="10" height="10" fill="#c084fc" style="animation-delay:0.65s"/>
+  <rect class="p" x="423" y="88" width="10" height="10" fill="#c084fc" style="animation-delay:0.65s"/>
+  <rect class="p" x="459" y="88" width="10" height="10" fill="#c084fc" style="animation-delay:0.70s"/>
+</svg>
