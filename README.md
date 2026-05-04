@@ -1,55 +1,68 @@
-## `whoami`
-
-```bash
-$ curl -s https://api.zynorex.dev/me
-```
-
-```json
-{
-  "name":        "Ayush Kumar",
-  "alias":       "zynorex",
-  "role":        "CS Undergrad × Solo Founder × Builder",
-  "university":  "Maharishi Markandeshwar University (B.Tech CSE)",
-  "location":    "India 🇮🇳",
-  "building":    "TALA — a tamper-proof, time-locked security protocol",
-  "stack":       ["Next.js", "Go", "TypeScript", "Solidity", "Polygon", "IPFS"],
-  "interests":   ["Web Security", "Zero-Trust Systems", "Competitive Programming"],
-  "status":      "shipping"
-}
-```
-
-
-## Tech Stack
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,python,solidity,html,css&theme=dark)](https://ayushx.me)
-
-**Frameworks & Libraries**
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express&theme=dark)](https://ayushx.me)
-
-**Infra, Cloud & Blockchain**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel,docker,linux,ipfs&theme=dark)](https://ayushx.me)
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark)](https://ayushx.me)
-
----
-
-##  GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zynorex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynorex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+```
+ █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+███████║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
+
+**A supervillain with a Computer Science degree.**
+
+Building things that shouldn't exist yet.
+
+[ayushx.me](http://ayushx.me) &nbsp;&middot;&nbsp; [@ayushedith](https://x.com/ayushedith) &nbsp;&middot;&nbsp; India
 
 </div>
 
+---
+
+## The Work
+
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **TALA** | Zero-trust time-locked cryptographic vaults for India's exam, tender & evidence workflows | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,solidity,go,prisma&theme=dark" height="28" /></a> | [usetala.in](https://www.usetala.in) |
+| **CaptureCraft** | Canvas-based image enhancement studio with a Go-powered Figma API backend | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,go,figma&theme=dark" height="28" /></a> | [capturecraft.app](https://www.capturecraft.app) |
+| **Swelly** | Marketing site for a Discord music bot - NextAuth, Discord OAuth, Framer Motion | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,discord&theme=dark" height="28" /></a> | [swelly.in](https://swelly.in) |
+| **Chitragupt** | Decentralized, censorship-resistant whistleblower platform - permanent by design | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=ts,nextjs,solidity&theme=dark" height="28" /></a> | WIP |
+| **SnapMint** | NFT minting flow with IPFS-backed metadata via nft.storage | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=ts,solidity,nodejs&theme=dark" height="28" /></a> | WIP |
+
+---
+
+## Languages and Tools
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zynorex&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+<a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=ts,go,solidity,nextjs,nodejs,tailwind,prisma,figma,git,github,vercel,linux&theme=dark&perline=6" /></a>
+
+</div>
+
+---
+
+## By the Numbers
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| `3` live products | `2` protocols in development |
+| `9.2 / 10` security score on TALA | `AES-256-GCM` encryption standard |
+| `Polygon Amoy` smart contract deployment | `IPFS` decentralized storage |
+
+</div>
+
+---
+
+## Currently
+
+Working on expanding TALA's protocol coverage for institutional use cases and building out CaptureCraft's native app roadmap.
+
+---
+
+<div align="center">
+
+*Code is infrastructure. Design is intent. Security is non-negotiable.*
 
 </div>
