@@ -14,8 +14,6 @@ Building things that shouldn't exist yet.
 
 [ayushx.me](http://ayushx.me) &nbsp;&middot;&nbsp; [@ayushedith](https://x.com/ayushedith) &nbsp;&middot;&nbsp; India
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushedith&color=0a0f2e&style=flat&label=Profile+Views)
-
 </div>
 
 ---
