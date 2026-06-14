@@ -23,7 +23,7 @@ Building things that shouldn't exist yet.
 | Project | What it is | Stack | Live |
 |---|---|---|---|
 | **TALA** | Zero-trust time-locked cryptographic vaults for India's exam, tender & evidence workflows | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,solidity,go,prisma&theme=dark" height="28" /></a> | [usetala.in](https://www.usetala.in) |
-| **ARTHA** | Wallet-based subscription SDK + dashboard  on-chain feature gating and MRR analytics for any SaaS | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,solidity,prisma,tailwind&theme=dark" height="28" /></a> | WIP |
+| **VREN** | Wallet-based subscription SDK + dashboard  on-chain feature gating and MRR analytics for any SaaS | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,solidity,prisma,tailwind&theme=dark" height="28" /></a> | [vren.tech](http://vren.tech/) |
 | **CaptureCraft** | Canvas-based image enhancement studio with a Go-powered Figma API backend | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,go,figma&theme=dark" height="28" /></a> | [capturecraft.app](https://www.capturecraft.app) |
 | **Swelly** | Marketing site for a Discord music bot NextAuth, Discord OAuth, Framer Motion | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,discord&theme=dark" height="28" /></a> | [swelly.in](https://swelly.in) |
 | **Chitragupt** | Decentralized, censorship-resistant whistleblower platform permanent by design | <a href="https://ayushx.me/"><img src="https://skillicons.dev/icons?i=ts,nextjs,solidity&theme=dark" height="28" /></a> | WIP |
